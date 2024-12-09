@@ -170,7 +170,7 @@ A Sobrecarga de Métodos permite definir vários métodos com o mesmo nome, mas 
 ## Integrantes 
 Nomes   | Github
 --------- | ------
-Antonio Carolino | [Ant0nioCar0lin0](https://github.com/AntonioCar0lin0)
+Antonio Carolino | [AntonioCar0lin0](https://github.com/AntonioCar0lin0)
 Cainan Machado | [cainantm](https://github.com/cainantm)
 Luiz Henrique | [luizhcastro](https://github.com/luizhcastro)
 Rafael Leonardo | [Rafaells-dv](https://github.com/Rafaells-dv)
